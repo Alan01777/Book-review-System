@@ -1,0 +1,3 @@
+2023-10-20 19:42:08 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "QM_INFO" not found (this database is empty); SQL statement:
+SELECT VERSION FROM QM_INFO [42104-214]
